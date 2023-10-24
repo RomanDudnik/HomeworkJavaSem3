@@ -26,7 +26,6 @@ public class Main {
             System.out.println(employee.getName() + ": " + employee.getSalary());
         }
 
-
         String comparisonResult = employees[1].compareDatesMath(employees[2]);
         System.out.println(comparisonResult);
     }
